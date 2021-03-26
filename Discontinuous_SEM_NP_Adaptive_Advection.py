@@ -1,4 +1,6 @@
 ### Discontinuous Galerkin SEM - Adapted for 1D from the single domain approximation.
+### Written by Jack Walsh - FEB 2021
+
 import numpy as np
 from matplotlib import pyplot as plt
 
