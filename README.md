@@ -3,7 +3,7 @@ Spectral Element Method -> Discontinuous Galerkin Method to solve the advection 
 
 Using elements of Kopriva's DGM code and Mavriplis' error estimator.
 
-Files: Discontinous_SEM_AdvectionDiffusion.py -> Main Linear_regression.py -> Used to fit the spectra to determine need to split. MeshGenerator.py -> Generates 1D mesh
+Files: Discontinuous_SEM_NP_Adaptive_Advection.py -> Main Linear_regression.py -> Used to fit the spectra to determine need to split. MeshGenerator.py -> Generates 1D mesh
 
 Libraries required: Numpy - Linear Algebra operations + array structures. Matplotlib - Plotting
 
