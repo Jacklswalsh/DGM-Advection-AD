@@ -1,5 +1,5 @@
 # DGM-Advection-AD
-Spectral Element Method -> Discontinuous Galerkin Method to solve the advection equation with adaptive element splititng. (NP-adaptive, Slow)
+Spectral Element Method -> Discontinuous Galerkin Method to solve the advection equation with adaptive element splititng. (NP-adaptive, Faster)
 
 Using elements of Kopriva's DGM code and Mavriplis' error estimator.
 
